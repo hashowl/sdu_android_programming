@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Wizard</string>
+    <string name="button_next">Next</string>
+    <string name="name_hint">Name</string>
+    <string name="address_hint">Address</string>
+    <string name="field_name">Name</string>
+    <string name="field_address">Address</string>
+    <string name="field_dateOfBirth">Date of birth</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_previous">Previous</string>
+</resources>
